@@ -1,7 +1,7 @@
 Generate Images!
 ====
 
-This is a super simple utility to generate images for use in computer vision projects. 
+This is a super simple utility to generate images that follow specific patterns for testing use in computer vision projects. 
 
 How to Use It.
 ====
